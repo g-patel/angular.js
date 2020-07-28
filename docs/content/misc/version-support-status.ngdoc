@@ -45,3 +45,7 @@ AngularJS 1.2.x will get a new version if and only if a new severe security issu
 ### Blog Post
 
 You can read more about these plans in our [blog post announcement](https://blog.angular.io/stable-angularjs-and-long-term-support-7e077635ee9c).
+
+
+### Update on LTS -  July 27th 2020.
+We're told COVID-19 is hurting teams migrating from AngularJS. In response, we are extending the LTS by 6 months. Remember, this only covers security issues and breaking browser bugs.
